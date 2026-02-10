@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------
 
-I've been learning React.js for 3 month. and looking for a new job in a junior position as a back-end, front-end, or full-stack developer.
+I've been learning React.js and looking for a new job in a junior position as a back-end, front-end, or full-stack developer.
 
 * 🌍  I'm based in Bangkok, Thailand
 
