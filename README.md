@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marut Patchimkarntong
 ==============================================================================================================================================
 
-PLC Engineer
 ------------
 
 I've been learning React.js for 3 month. and looking for a new job in a junior position as a back-end, front-end, or full-stack developer.
